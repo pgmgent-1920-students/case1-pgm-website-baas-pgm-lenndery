@@ -29,10 +29,11 @@ jobs:
     - run: npm start
     - name: Commit files
       run: |
-        git pull origin master
         git config --local user.email "lenndery@student.arteveldehs.be"
         git config --local user.name "pgm-lenndery"
-        git add .
+        git add * 
+        git stash
+        git pull origin master
         git commit -m "Add changes" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
