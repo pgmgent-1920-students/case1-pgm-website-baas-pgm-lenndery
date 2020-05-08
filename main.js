@@ -12,7 +12,7 @@ dirTree("./src", {
     content += `
       ${PATH.dirname(item.path) == lastPath ? '' : `<h4><ion-icon name="folder-outline"></ion-icon>${PATH.dirname(item.path)}</h4>`}
       <p class="mb-0">${item.name}</p>
-      <a class="d-inline-block mb-4" href="${baseUrl + item.path}" target="_blank">${baseUrl + item.path}</a>
+      <a class="d-inline-block mb-3" href="${baseUrl + item.path}" target="_blank">${baseUrl + item.path}</a>
     `;
     lastPath = PATH.dirname(item.path);
   }
