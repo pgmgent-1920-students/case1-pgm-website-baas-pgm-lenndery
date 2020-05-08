@@ -1,0 +1,23 @@
+{
+  "name": "01-case-1-baas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgmgent-1920-students/case1-pgm-website-baas-pgm-lenndery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgmgent-1920-students/case1-pgm-website-baas-pgm-lenndery/issues"
+  },
+  "homepage": "https://github.com/pgmgent-1920-students/case1-pgm-website-baas-pgm-lenndery#readme",
+  "dependencies": {
+    "directory-tree": "^2.2.4"
+  }
+}
