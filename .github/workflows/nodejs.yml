@@ -29,6 +29,7 @@ jobs:
     - run: npm start
     - name: Commit files
       run: |
+        git pull origin master
         git config --local user.email "lenndery@student.arteveldehs.be"
         git config --local user.name "pgm-lenndery"
         git add .
