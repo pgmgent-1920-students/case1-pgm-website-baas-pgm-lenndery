@@ -13,13 +13,31 @@
     <h2 class="mb-0">Index</h2>
     <p class="mb-0">Overzicht van alle bestanden in deze repo</p>
   </header>
-    <section class="container">
+    <section class="container" data-sesam-group="allFiles">
       
-      <h4><ion-icon name="folder-outline"></ion-icon>src/data</h4>
+      
+        
+        <h4 data-sesam-trigger="src/data">
+        <div class="pre-icon">
+          <ion-icon name="folder-outline"></ion-icon>
+          <ion-icon name="folder-open-outline"></ion-icon>
+        </div>
+        src/data</h4>
+        <div data-sesam-target="src/data" data-sesam-parent="allFiles">
+      
       <p class="mb-0">test.json</p>
       <a class="d-inline-block mb-3" href="https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/data/test.json" target="_blank">https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/data/test.json</a>
     
-      <h4><ion-icon name="folder-outline"></ion-icon>src/images</h4>
+      
+        </div>
+        <h4 data-sesam-trigger="src/images">
+        <div class="pre-icon">
+          <ion-icon name="folder-outline"></ion-icon>
+          <ion-icon name="folder-open-outline"></ion-icon>
+        </div>
+        src/images</h4>
+        <div data-sesam-target="src/images" data-sesam-parent="allFiles">
+      
       <p class="mb-0">favicon.png</p>
       <a class="d-inline-block mb-3" href="https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/favicon.png" target="_blank">https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/favicon.png</a>
     
@@ -34,13 +52,31 @@
     </section>
     <style>
       h4 {
-        margin-left: calc((24px + 10px) * -1);
+        margin-left: calc((24px + 16px) * -1);
+        cursor: pointer;
       }
-      ion-icon {
+      .pre-icon {
+        position: relative;
+        display: inline-block;
         transform: translateY(5px);
         margin-right: 10px;
       }
+      .pre-icon ion-icon[name="folder-open-outline"] {
+        display: none;
+      }
+      h4.sesam.sesam-show .pre-icon ion-icon[name="folder-open-outline"] {
+        display: inline-block;
+        transform: scale(1.2) translateY(1px);
+        --ionicon-stroke-width: 26px;
+      }
+      h4.sesam.sesam-show .pre-icon ion-icon[name="folder-outline"] {
+        display: none;
+      }
+      div.sesam.sesam-hidden {
+        display: none;
+      }
     </style>
     <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+    <script type="module" src="./app.js"></script>
   </body>
   </html>

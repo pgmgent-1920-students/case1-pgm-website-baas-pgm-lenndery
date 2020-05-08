@@ -8,9 +8,18 @@ const baseUrl = 'https://pgmgent-1920-students.github.io/case1-pgm-website-baas-
 let content = '', lastPath = '';
 dirTree("./src", {
     extensions: /[^\.]./
-  }, (item, PATH, stats) => {
+  }, (item, PATH, stats, index) => {
     content += `
-      ${PATH.dirname(item.path) == lastPath ? '' : `<h4><ion-icon name="folder-outline"></ion-icon>${PATH.dirname(item.path)}</h4>`}
+      ${PATH.dirname(item.path) == lastPath ? '' : `
+        </div>
+        <h4 data-sesam-trigger="${PATH.dirname(item.path)}">
+        <div class="pre-icon">
+          <ion-icon name="folder-outline"></ion-icon>
+          <ion-icon name="folder-open-outline"></ion-icon>
+        </div>
+        ${PATH.dirname(item.path)}</h4>
+        <div data-sesam-target="${PATH.dirname(item.path)}" data-sesam-parent="allFiles">
+      `}
       <p class="mb-0">${item.name}</p>
       <a class="d-inline-block mb-3" href="${baseUrl + item.path}" target="_blank">${baseUrl + item.path}</a>
     `;
@@ -33,19 +42,37 @@ const indexPage = `
     <h2 class="mb-0">Index</h2>
     <p class="mb-0">Overzicht van alle bestanden in deze repo</p>
   </header>
-    <section class="container">
-      ${content}
+    <section class="container" data-sesam-group="allFiles">
+      ${content.replace('</div>', '')}
     </section>
     <style>
       h4 {
-        margin-left: calc((24px + 10px) * -1);
+        margin-left: calc((24px + 16px) * -1);
+        cursor: pointer;
       }
-      ion-icon {
+      .pre-icon {
+        position: relative;
+        display: inline-block;
         transform: translateY(5px);
         margin-right: 10px;
       }
+      .pre-icon ion-icon[name="folder-open-outline"] {
+        display: none;
+      }
+      h4.sesam.sesam-show .pre-icon ion-icon[name="folder-open-outline"] {
+        display: inline-block;
+        transform: scale(1.2) translateY(1px);
+        --ionicon-stroke-width: 26px;
+      }
+      h4.sesam.sesam-show .pre-icon ion-icon[name="folder-outline"] {
+        display: none;
+      }
+      div.sesam.sesam-hidden {
+        display: none;
+      }
     </style>
     <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+    <script type="module" src="./app.js"></script>
   </body>
   </html>
 `;
