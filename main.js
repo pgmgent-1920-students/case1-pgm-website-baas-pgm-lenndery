@@ -5,24 +5,26 @@ const PATH = require('path');
 // ENKEL BASEURL VERVANGEN!
 const baseUrl = 'https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/';
 
-let content = '', lastPath = '';
+let content = '', lastPath = '', collapseIndex = 0;
 dirTree("./src", {
     extensions: /[^\.]./
-  }, (item, PATH, stats, index) => {
+  }, (item, PATH, stats) => {
+    console.log(item, stats)
     content += `
       ${PATH.dirname(item.path) == lastPath ? '' : `
         </div>
-        <h4 data-sesam-trigger="${PATH.dirname(item.path)}">
+        <h4 data-sesam-trigger="${PATH.dirname(item.path)}${collapseIndex}">
         <div class="pre-icon">
           <ion-icon name="folder-outline"></ion-icon>
           <ion-icon name="folder-open-outline"></ion-icon>
         </div>
         ${PATH.dirname(item.path)}</h4>
-        <div data-sesam-target="${PATH.dirname(item.path)}" data-sesam-parent="allFiles">
+        <div data-sesam-target="${PATH.dirname(item.path)}${collapseIndex}" data-sesam-parent="allFiles">
       `}
       <p class="mb-0">${item.name}</p>
       <a class="d-inline-block mb-3" href="${baseUrl + item.path}" target="_blank">${baseUrl + item.path}</a>
     `;
+    collapseIndex ++;
     lastPath = PATH.dirname(item.path);
   }
 )
