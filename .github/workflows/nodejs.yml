@@ -30,7 +30,7 @@ jobs:
     - name: Commit files
       run: |
         git config --local user.email "lenndery@student.arteveldehs.be"
-        git config --local user.name "${{ GITHUB_REPOSITORY }}"
+        git config --local user.name "${{ secrets.GITHUB_REPOSITORY }}"
         git add .
         git commit -m "Add changes" -a
     - name: Push changes
