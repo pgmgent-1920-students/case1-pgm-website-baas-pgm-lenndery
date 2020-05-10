@@ -4,6 +4,7 @@ const PATH = require('path');
 
 // ENKEL BASEURL VERVANGEN!
 const baseUrl = 'https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/';
+const version = new Date();
 
 let content = '', lastPath = '', collapseIndex = 0;
 dirTree("./src", {
@@ -39,7 +40,7 @@ const indexPage = `
       <link rel="shortcut icon" type='image/png' href="./src/images/favicon_2.png"/>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   </head>
-  <body class="py-5">
+  <body class="py-5" data-version="${version.getTime()}">
   <header class="container mb-5">
     <h2 class="mb-0">Index</h2>
     <p class="mb-0">Overzicht van alle bestanden in deze repo</p>
@@ -89,7 +90,7 @@ const errorPage = `
       <meta http-equiv="refresh" content="5; URL="${baseUrl}">
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   </head>
-  <body>
+  <body data-version="${version.getTime()}">
       <div class="container py-5">
           <h2 class="mb-0">404</h2>
           <p>

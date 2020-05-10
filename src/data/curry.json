@@ -1,0 +1,215 @@
+{
+    "fields": [
+        {
+            "id": 1,
+            "name": "Business & Communication",
+            "color": "#00a5d9",
+            "courses": [
+                {
+                    "name": "IT Communication",
+                    "subject": "",
+                    "teachers": ["cgr","ldb"],
+                    "credits": 3,
+                    "time": 6,
+                    "term": 3
+                },
+                {
+                    "name": "IT Business",
+                    "subject": "",
+                    "teachers": ["cgr","ldb"],
+                    "credits": 3,
+                    "time": 6,
+                    "term": 4
+                },
+                {
+                    "name": "IT Entrepreneurship",
+                    "subject": "",
+                    "teachers": ["?"],
+                    "credits": 3,
+                    "time": 4,
+                    "term": 8
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Applied Information Technology",
+            "color": "#5ab946",
+            "courses": [
+                {
+                    "name": "Computer Systems",
+                    "subject": "",
+                    "teachers": ["opr"],
+                    "credits": 3,
+                    "time": 6,
+                    "term": 3
+                },
+                {
+                    "name": "Data Management",
+                    "subject": "",
+                    "teachers": ["?"],
+                    "credits": 6,
+                    "time": 10,
+                    "term": 5
+                },
+                {
+                    "name": "It Exploration",
+                    "subject": "",
+                    "teachers": ["?"],
+                    "credits": 3,
+                    "time": 4,
+                    "term": 7
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Creative Design & Development",
+            "color": "#f58732",
+            "courses": [
+                {
+                    "name": "Web Design",
+                    "subject": "",
+                    "teachers": ["evr"],
+                    "credits": 6,
+                    "time": 8,
+                    "term": 1
+                },
+                {
+                    "name": "User Interface Design",
+                    "subject": "",
+                    "teachers": ["ddw"],
+                    "credits": 6,
+                    "time": 8,
+                    "term": 2
+                },
+                {
+                    "name": "User Interface Prototyping",
+                    "subject": "",
+                    "teachers": ["opr"],
+                    "credits": 6,
+                    "time": 8,
+                    "term": 3
+                },
+                {
+                    "name": "Interactive Media",
+                    "subject": "",
+                    "teachers": ["?"],
+                    "credits": 3,
+                    "time": 6,
+                    "term": 5
+                },
+                {
+                    "name": "Content Management Systems",
+                    "subject": "",
+                    "teachers": ["?"],
+                    "credits": 3,
+                    "time": 6,
+                    "term": 6
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Computer Programming",
+            "color": "#d20082",
+            "courses": [
+                {
+                    "name": "Programming 1",
+                    "subject": "Front-End Essentials",
+                    "teachers": ["pdp"],
+                    "credits": 6,
+                    "time": 10,
+                    "term": 1
+                },
+                {
+                    "name": "Programming 2",
+                    "subject": "Front-End Advanced",
+                    "teachers": ["opr"],
+                    "credits": 3,
+                    "time": 6,
+                    "term": 2
+                },
+                {
+                    "name": "Programming 3",
+                    "subject": "Front-End Expert",
+                    "teachers": ["frg"],
+                    "credits": 6,
+                    "time": 10,
+                    "term": 3
+                },
+                {
+                    "name": "Programming 4",
+                    "subject": "JAMStack",
+                    "teachers": ["pdp"],
+                    "credits": 6,
+                    "time": 8,
+                    "term": 4
+                },
+                {
+                    "name": "Programming 5",
+                    "subject": "Full Stack",
+                    "teachers": ["?"],
+                    "credits": 6,
+                    "time": 8,
+                    "term": 5
+                },
+                {
+                    "name": "Programming 6",
+                    "subject": "Mobile",
+                    "teachers": ["?"],
+                    "credits": 6,
+                    "time": 8,
+                    "term": 6
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Workplace Learning",
+            "color": "#ed0034",
+            "courses": [
+                {
+                    "name": "@Work 1",
+                    "subject": "",
+                    "teachers": ["pdp"],
+                    "credits": 6,
+                    "time": 10,
+                    "term": 2
+                },
+                {
+                    "name": "@Work 2",
+                    "subject": "",
+                    "teachers": ["pdp","ldb"],
+                    "credits": 6,
+                    "time": 10,
+                    "term": 4
+                },
+                {
+                    "name": "@Work 3",
+                    "subject": "",
+                    "teachers": ["?"],
+                    "credits": 6,
+                    "time": 10,
+                    "term": 6
+                },
+                {
+                    "name": "@Work 4",
+                    "subject": "Stage",
+                    "teachers": ["?"],
+                    "credits": 15,
+                    "time": 30,
+                    "term": 7
+                },
+                {
+                    "name": "@Work 5",
+                    "subject": "Stage",
+                    "teachers": ["?"],
+                    "credits": 9,
+                    "time": 30,
+                    "term": 8
+                }
+            ]
+        }
+    ]
+}
