@@ -32,7 +32,7 @@ jobs:
         git config --local user.email "lenndery@student.arteveldehs.be"
         git config --local user.name $GITHUB_REPOSITORY
         git add .
-        git commit -m "Add changes" -a
+        git commit -m "File indexing build" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
