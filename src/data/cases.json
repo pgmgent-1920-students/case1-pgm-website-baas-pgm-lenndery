@@ -1,0 +1,177 @@
+{
+    "cases": [
+        {
+            "title": "Joboffer",
+            "about": "Een ludieke manier om te leren werken met css",
+            "url": "https://git.ahs.lennertderyck.be/aj-1920/webdes/01-joboffer/",
+            "course": "Web Design",
+            "date": "29/09/2019",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Thriven",
+            "about": "Promotiepagina voor een app om te leren werken met flexbox",
+            "url": "https://git.ahs.lennertderyck.be/aj-1920//webdes/02-thrive",
+            "course": "Web Design",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Thriven 2",
+            "about": "Verdere uitwerking van opdracht 2",
+            "url": "https://git.ahs.lennertderyck.be/aj-1920//webdes/03-thriven",
+            "course": "Web Design",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Festival",
+            "descr": "Een literal object uitlezen en weergeven in DOM",
+            "url": "./webpgm/01-festival",
+            "course": "Web programming",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Basic JS met DOM",
+            "descr": "Een literal object uitlezen en weergeven in DOM en details laden in overlay",
+            "url": "./webpgm/02-basic-js-dom",
+            "course": "Web programming",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Tronald Dump",
+            "descr": "Leren omgaan met API\"s via XMLHttpRequest",
+            "url": "https://git.lennertderyck.be/tweets-of-the-dumbest-living-thing/",
+            "course": "Web programming",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The meal database",
+            "descr": "Leren omgaan met API\"s via fetch en deze combineren",
+            "url": "https://git.ahs.lennertderyck.be/1920-webpgm2-recipes-api/",
+            "course": "Web programming",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        }, 
+        {
+            "title": "Parkings Gent",
+            "descr": "Data consumeren vanuit API met async await",
+            "url": "./webpgm/03-parkings",
+            "course": "Web programming",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        }, 
+        {
+            "title": "Quiz",
+            "descr": "Examenwerkstuk – maakt gebruik van Open Trivia api",
+            "url": "https://webpgm2-exam.netlify.com/",
+            "course": "Web programming",
+            "img": {
+                "tumbnail": "",
+                "galerly": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        }, 
+        
+    ]
+}
