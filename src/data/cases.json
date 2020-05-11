@@ -41,7 +41,7 @@
         },
         {
             "title": "Festival",
-            "descr": "Een literal object uitlezen en weergeven in DOM",
+            "about": "Een literal object uitlezen en weergeven in DOM",
             "url": "https://git.ahs.lennertderyck.be/webpgm/01-festival",
             "course": "Web programming",
             "img": {
@@ -60,7 +60,7 @@
         },
         {
             "title": "Basic JS met DOM",
-            "descr": "Een literal object uitlezen en weergeven in DOM en details laden in overlay",
+            "about": "Een literal object uitlezen en weergeven in DOM en details laden in overlay",
             "url": "https://git.ahs.lennertderyck.be/webpgm/02-basic-js-dom",
             "course": "Web programming",
             "img": {
@@ -79,7 +79,7 @@
         },
         {
             "title": "Tronald Dump",
-            "descr": "Leren omgaan met API\"s via XMLHttpRequest",
+            "about": "Leren omgaan met API\"s via XMLHttpRequest",
             "url": "https://git.lennertderyck.be/tweets-of-the-dumbest-living-thing/",
             "course": "Web programming",
             "img": {
@@ -98,7 +98,7 @@
         },
         {
             "title": "The meal database",
-            "descr": "Leren omgaan met API\"s via fetch en deze combineren",
+            "about": "Leren omgaan met API\"s via fetch en deze combineren",
             "url": "https://git.ahs.lennertderyck.be/1920-webpgm2-recipes-api/",
             "course": "Web programming",
             "img": {
@@ -117,7 +117,7 @@
         }, 
         {
             "title": "Parkings Gent",
-            "descr": "Data consumeren vanuit API met async await",
+            "about": "Data consumeren vanuit API met async await",
             "url": "./webpgm/03-parkings",
             "course": "Web programming",
             "img": {
@@ -136,7 +136,7 @@
         }, 
         {
             "title": "Quiz",
-            "descr": "Examenwerkstuk – maakt gebruik van Open Trivia api",
+            "about": "Examenwerkstuk – maakt gebruik van Open Trivia api",
             "url": "https://webpgm2-exam.netlify.com/",
             "course": "Web programming",
             "img": {
@@ -152,6 +152,120 @@
                     }
                 ]
             }
-        }
+        },
+        {
+            "title": "Curriculum vitae",
+            "about": "Leren gebruik maken van Adobe XD en uitvoeren in HTML & CSS",
+            "url": "https://git.ahs.lennertderyck.be/uiux/01-cv",
+            "course": "UI / UX",
+            "img": {
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/cv/thumb.png",
+                "gallery": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Paralax",
+            "about": "Gebruik maken van Javascript om paralax effect toe te voegen",
+            "url": "https://git.ahs.lennertderyck.be/uiux/03-paralax",
+            "course": "UI / UX",
+            "img": {
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parralax/thumb.png",
+                "gallery": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Crowdfunding Lowki",
+            "about": "Verdere uitwerking B007C4MP 2o2o project Lowki",
+            "url": "https://pgmgent-1920-students.github.io/1920-uiux2-crowdfunding-pgm-lenndery/",
+            "course": "UI / UX",
+            "img": {
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/lowki/thumb.png",
+                "gallery": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Case 1 Arne Quinze",
+            "about": "Het namaken van arnequinze.com",
+            "link": "https://git.ahs.lennertderyck.be/1920-atwork-1/",
+            "course": "UI / UX",
+            "img": {
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/arne-quinze/thumb.jpg",
+                "gallery": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Case 2 Matthias Talloen",
+            "about": "Het namaken van https://matthiastalloen.be/",
+            "link": "https://git.ahs.lennertderyck.be/1920-atwork-2/",
+            "course": "UI / UX",
+            "img": {
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/matthias-talloen/thumb.png",
+                "gallery": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Case 3 Establis",
+            "about": "Het namaken van https://establis.eu/ met 11ty",
+            "link": "https://atwork1-case-3-derycklennert.netlify.com/",
+            "course": "UI / UX",
+            "img": {
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/establis/thumb.jpg",
+                "gallery": [
+                    {
+                        "url": "",
+                        "description": ""
+                    },
+                    {
+                        "url": "",
+                        "description": ""
+                    }
+                ]
+            }
+        },
     ]
 }
