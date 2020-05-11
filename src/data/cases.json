@@ -7,8 +7,8 @@
             "course": "Web Design",
             "date": "29/09/2019",
             "img": {
-                "tumbnail": "",
-                "galerly": [
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/joboffer/thumb.jpg",
+                "gallery": [
                     {
                         "url": "",
                         "description": ""
@@ -23,30 +23,11 @@
         {
             "title": "Thriven",
             "about": "Promotiepagina voor een app om te leren werken met flexbox",
-            "url": "https://git.ahs.lennertderyck.be/aj-1920//webdes/02-thrive",
+            "url": "https://git.ahs.lennertderyck.be/aj-1920/webdes/03-thriven",
             "course": "Web Design",
             "img": {
-                "tumbnail": "",
-                "galerly": [
-                    {
-                        "url": "",
-                        "description": ""
-                    },
-                    {
-                        "url": "",
-                        "description": ""
-                    }
-                ]
-            }
-        },
-        {
-            "title": "Thriven 2",
-            "about": "Verdere uitwerking van opdracht 2",
-            "url": "https://git.ahs.lennertderyck.be/aj-1920//webdes/03-thriven",
-            "course": "Web Design",
-            "img": {
-                "tumbnail": "",
-                "galerly": [
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/thriven/thumb_2.png",
+                "gallery": [
                     {
                         "url": "",
                         "description": ""
@@ -61,11 +42,11 @@
         {
             "title": "Festival",
             "descr": "Een literal object uitlezen en weergeven in DOM",
-            "url": "./webpgm/01-festival",
+            "url": "https://git.ahs.lennertderyck.be/webpgm/01-festival",
             "course": "Web programming",
             "img": {
-                "tumbnail": "",
-                "galerly": [
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/festival/thumb.jpg",
+                "gallery": [
                     {
                         "url": "",
                         "description": ""
@@ -80,11 +61,11 @@
         {
             "title": "Basic JS met DOM",
             "descr": "Een literal object uitlezen en weergeven in DOM en details laden in overlay",
-            "url": "./webpgm/02-basic-js-dom",
+            "url": "https://git.ahs.lennertderyck.be/webpgm/02-basic-js-dom",
             "course": "Web programming",
             "img": {
-                "tumbnail": "",
-                "galerly": [
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/basic-dom/thumb.png",
+                "gallery": [
                     {
                         "url": "",
                         "description": ""
@@ -102,8 +83,8 @@
             "url": "https://git.lennertderyck.be/tweets-of-the-dumbest-living-thing/",
             "course": "Web programming",
             "img": {
-                "tumbnail": "",
-                "galerly": [
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/tronald%20dump/thumb.png",
+                "gallery": [
                     {
                         "url": "",
                         "description": ""
@@ -121,8 +102,8 @@
             "url": "https://git.ahs.lennertderyck.be/1920-webpgm2-recipes-api/",
             "course": "Web programming",
             "img": {
-                "tumbnail": "",
-                "galerly": [
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/the-meal-db/thumb.jpg",
+                "gallery": [
                     {
                         "url": "",
                         "description": ""
@@ -140,8 +121,8 @@
             "url": "./webpgm/03-parkings",
             "course": "Web programming",
             "img": {
-                "tumbnail": "",
-                "galerly": [
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parkings/thumb.png",
+                "gallery": [
                     {
                         "url": "",
                         "description": ""
@@ -159,8 +140,8 @@
             "url": "https://webpgm2-exam.netlify.com/",
             "course": "Web programming",
             "img": {
-                "tumbnail": "",
-                "galerly": [
+                "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/thumb.jpg",
+                "gallery": [
                     {
                         "url": "",
                         "description": ""
