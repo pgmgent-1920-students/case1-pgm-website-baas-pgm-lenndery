@@ -6,6 +6,8 @@
                 "id": "gf5p4nonou",
                 "title": "Joboffer",
                 "about": "Een ludieke manier om te leren werken met css",
+                "description": "Een ludieke manier om te leren werken met css",
+                "tags": ["css"],
                 "url": "https://git.ahs.lennertderyck.be/aj-1920/webdes/01-joboffer/",
                 "course": "Web Design",
                 "date": "29/09/2019",
@@ -27,6 +29,8 @@
                 "id": "wlx9gvsjw8",
                 "title": "Thriven",
                 "about": "Promotiepagina voor een app om te leren werken met flexbox",
+                "description": "Promotiepagina voor een app om te leren werken met flexbox",
+                "tags": ["css", "flexbox","responsive"],
                 "url": "https://git.ahs.lennertderyck.be/aj-1920/webdes/03-thriven",
                 "course": "Web Design",
                 "img": {
@@ -47,6 +51,8 @@
                 "id": "18rdmlfvmv",
                 "title": "Festival",
                 "about": "Een literal object uitlezen en weergeven in DOM",
+                "description": "Een literal object uitlezen en weergeven in DOM",
+                "tags": ["javascript","dom","literal object"],
                 "url": "https://git.ahs.lennertderyck.be/webpgm/01-festival",
                 "course": "Web programming",
                 "img": {
@@ -67,6 +73,8 @@
                 "id": "qp5e8y3zzk",
                 "title": "Basic JS met DOM",
                 "about": "Een literal object uitlezen en weergeven in DOM en details laden in overlay",
+                "description": "Een literal object uitlezen en weergeven in DOM en details laden in overlay",
+                "tags": ["javascript","dom","literal object"],
                 "url": "https://git.ahs.lennertderyck.be/webpgm/02-basic-js-dom",
                 "course": "Web programming",
                 "img": {
@@ -87,6 +95,8 @@
                 "id": "cdg70dsbx0",
                 "title": "Tronald Dump",
                 "about": "Leren omgaan met API\"s via XMLHttpRequest",
+                "description": "Leren omgaan met API\"s via XMLHttpRequest",
+                "tags": ["javascript","dom","XMLHttpRequest","api"],
                 "url": "https://git.lennertderyck.be/tweets-of-the-dumbest-living-thing/",
                 "course": "Web programming",
                 "img": {
@@ -107,6 +117,8 @@
                 "id": "8t3mvcncxw",
                 "title": "The meal database",
                 "about": "Leren omgaan met API\"s via fetch en deze combineren",
+                "description": "Leren omgaan met API\"s via fetch en deze combineren",
+                "tags": ["javascript","dom","fetch","api"],
                 "url": "https://git.ahs.lennertderyck.be/1920-webpgm2-recipes-api/",
                 "course": "Web programming",
                 "img": {
@@ -127,6 +139,8 @@
                 "id": "w5et8a4obv",
                 "title": "Parkings Gent",
                 "about": "Data consumeren vanuit API met async await",
+                "description": "Data consumeren vanuit API met async await",
+                "tags": ["javascript","dom","async await","api","Gent","mapbox"],
                 "url": "./webpgm/03-parkings",
                 "course": "Web programming",
                 "img": {
@@ -147,6 +161,8 @@
                 "id": "60ykgakygv",
                 "title": "Quiz",
                 "about": "Examenwerkstuk – maakt gebruik van Open Trivia api",
+                "description": "Examenwerkstuk – maakt gebruik van Open Trivia api",
+                "tags": ["examen","database","api","localStorage","modules"],
                 "url": "https://webpgm2-exam.netlify.com/",
                 "course": "Web programming",
                 "img": {
@@ -167,6 +183,8 @@
                 "id": "v7sqy0f4nx",
                 "title": "Curriculum vitae",
                 "about": "Leren gebruik maken van Adobe XD en uitvoeren in HTML & CSS",
+                "description": "Leren gebruik maken van Adobe XD en uitvoeren in HTML & CSS",
+                "tags": ["prototype","adobe","cv"],
                 "url": "https://git.ahs.lennertderyck.be/uiux/01-cv",
                 "course": "UI / UX",
                 "img": {
@@ -187,6 +205,8 @@
                 "id": "mtqa7yl6w4",
                 "title": "Paralax",
                 "about": "Gebruik maken van Javascript om paralax effect toe te voegen",
+                "description": "Gebruik maken van Javascript om paralax effect toe te voegen",
+                "tags": ["prototype","adobe","paralax","javascript"],
                 "url": "https://git.ahs.lennertderyck.be/uiux/03-paralax",
                 "course": "UI / UX",
                 "img": {
@@ -207,6 +227,8 @@
                 "id": "ey0douhesu",
                 "title": "Crowdfunding Lowki",
                 "about": "Verdere uitwerking B007C4MP 2o2o project Lowki",
+                "description": "Verdere uitwerking B007C4MP 2o2o project Lowki",
+                "tags": ["three.js","blender","3D","crowdfunding","bootcamp"],
                 "url": "https://pgmgent-1920-students.github.io/1920-uiux2-crowdfunding-pgm-lenndery/",
                 "course": "UI / UX",
                 "img": {
@@ -227,6 +249,8 @@
                 "id": "kn0hlqe87t",
                 "title": "Case 1 Arne Quinze",
                 "about": "Het namaken van arnequinze.com",
+                "description": "Het namaken van arnequinze.com",
+                "tags": ["werkplekleren"],
                 "link": "https://git.ahs.lennertderyck.be/1920-atwork-1/",
                 "course": "UI / UX",
                 "img": {
@@ -247,6 +271,8 @@
                 "id": "89uflhqfyq",
                 "title": "Case 2 Matthias Talloen",
                 "about": "Het namaken van https://matthiastalloen.be/",
+                "description": "Het namaken van https://matthiastalloen.be/",
+                "tags": ["static site generator","11ty","sass","werkplekleren"],
                 "link": "https://git.ahs.lennertderyck.be/1920-atwork-2/",
                 "course": "UI / UX",
                 "img": {
@@ -267,6 +293,8 @@
                 "id": "a2r0ra38ou",
                 "title": "Case 3 Establis",
                 "about": "Het namaken van https://establis.eu/ met 11ty",
+                "description": "Het namaken van https://establis.eu/ met 11ty",
+                "tags": ["static site generator","11ty","sass","werkplekleren"],
                 "link": "https://atwork1-case-3-derycklennert.netlify.com/",
                 "course": "UI / UX",
                 "img": {
