@@ -7,10 +7,11 @@
                 "title": "Joboffer",
                 "about": "Een ludieke manier om te leren werken met css",
                 "description": "Een ludieke manier om te leren werken met css",
-                "tags": ["css"],
+                "technologie": ["html5", "sass", "javascript"],
+                "tags": ["css", "branding"],
                 "url": "https://git.ahs.lennertderyck.be/aj-1920/webdes/01-joboffer/",
                 "course": "Web Design",
-                "date": "29/09/2019",
+                "date": "09 29 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/joboffer/thumb.jpg",
                     "gallery": [
@@ -31,9 +32,11 @@
                 "title": "Thriven",
                 "about": "Promotiepagina voor een app om te leren werken met flexbox",
                 "description": "Promotiepagina voor een app om te leren werken met flexbox",
+                "technologie": ["html5", "sass", "javascript"],
                 "tags": ["css", "flexbox","responsive"],
                 "url": "https://git.ahs.lennertderyck.be/aj-1920/webdes/03-thriven",
                 "course": "Web Design",
+                "date": "10 23 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/thriven/thumb_2.png",
                     "gallery": [
@@ -54,9 +57,11 @@
                 "title": "Festival",
                 "about": "Een literal object uitlezen en weergeven in DOM",
                 "description": "Een literal object uitlezen en weergeven in DOM",
+                "technologie": ["javscript", "html5", "sass"],
                 "tags": ["javascript","dom","literal object"],
-                "url": "https://git.ahs.lennertderyck.be/webpgm/01-festival",
+                "url": "https://git.ahs.lennertderyck.be/aj-1920/webpgm/01-festival/",
                 "course": "Web programming",
+                "date": "10 10 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/festival/thumb.jpg",
                     "gallery": [
@@ -77,9 +82,11 @@
                 "title": "Basic JS met DOM",
                 "about": "Een literal object uitlezen en weergeven in DOM en details laden in overlay",
                 "description": "Een literal object uitlezen en weergeven in DOM en details laden in overlay",
+                "technologie": ["javscript", "html5", "sass"],
                 "tags": ["javascript","dom","literal object"],
                 "url": "https://git.ahs.lennertderyck.be/webpgm/02-basic-js-dom",
                 "course": "Web programming",
+                "date": "10 24 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/basic-dom/thumb.png",
                     "gallery": [
@@ -100,9 +107,11 @@
                 "title": "Tronald Dump",
                 "about": "Leren omgaan met API\"s via XMLHttpRequest",
                 "description": "Leren omgaan met API\"s via XMLHttpRequest",
-                "tags": ["javascript","dom","XMLHttpRequest","api"],
+                "technologie": ["javscript", "api's","XMLHttpRequest", "html5", "sass"],
+                "tags": ["Donald Trump", "Tronald Dump", "Twitter"],
                 "url": "https://git.lennertderyck.be/tweets-of-the-dumbest-living-thing/",
                 "course": "Web programming",
+                "date": "02 20 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/tronald%20dump/thumb.png",
                     "gallery": [
@@ -123,9 +132,11 @@
                 "title": "The meal database",
                 "about": "Leren omgaan met API\"s via fetch en deze combineren",
                 "description": "Leren omgaan met API\"s via fetch en deze combineren",
-                "tags": ["javascript","dom","fetch","api"],
+                "technologie": ["javscript", "api's", "fetch", "html5", "sass"],
+                "tags": ["The Meal DB","dom","food"],
                 "url": "https://git.ahs.lennertderyck.be/1920-webpgm2-recipes-api/",
                 "course": "Web programming",
+                "date": "02 26 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/the-meal-db/thumb.jpg",
                     "gallery": [
@@ -146,9 +157,11 @@
                 "title": "Parkings Gent",
                 "about": "Data consumeren vanuit API met async await",
                 "description": "Data consumeren vanuit API met async await",
-                "tags": ["javascript","dom","async await","api","Gent","mapbox"],
-                "url": "./webpgm/03-parkings",
+                "technologie": ["javscript", "api's", "async await", "html5", "sass"],
+                "tags": ["Gent","parkings", "Mapbox","dom"],
+                "url": "https://git.ahs.lennertderyck.be/aj-1920/webpgm/03-parkings",
                 "course": "Web programming",
+                "date": "02 05 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parkings/thumb.png",
                     "gallery": [
@@ -169,9 +182,11 @@
                 "title": "Quiz",
                 "about": "Examenwerkstuk – maakt gebruik van Open Trivia api",
                 "description": "Examenwerkstuk – maakt gebruik van Open Trivia api",
-                "tags": ["examen","database","api","localStorage","modules"],
+                "technologie": ["javscript", "api's", "async await", "modules", "html5", "sass"],
+                "tags": ["Open DB","database","quiz"],
                 "url": "https://webpgm2-exam.netlify.com/",
                 "course": "Web programming",
+                "date": "03 24 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/thumb.jpg",
                     "gallery": [
@@ -192,9 +207,11 @@
                 "title": "Curriculum vitae",
                 "about": "Leren gebruik maken van Adobe XD en uitvoeren in HTML & CSS",
                 "description": "Leren gebruik maken van Adobe XD en uitvoeren in HTML & CSS",
+                "technologie": ["html5", "sass"],
                 "tags": ["prototype","adobe","cv"],
                 "url": "https://git.ahs.lennertderyck.be/uiux/01-cv",
                 "course": "UI / UX",
+                "date": "12 05 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/cv/thumb.png",
                     "gallery": [
@@ -215,9 +232,11 @@
                 "title": "Paralax",
                 "about": "Gebruik maken van Javascript om paralax effect toe te voegen",
                 "description": "Gebruik maken van Javascript om paralax effect toe te voegen",
-                "tags": ["prototype","adobe","paralax","javascript"],
-                "url": "https://git.ahs.lennertderyck.be/uiux/03-paralax",
+                "technologie": ["html5", "sass", "javscript"],
+                "tags": ["prototype","adobe","paralax"],
+                "url": "https://git.ahs.lennertderyck.be/aj-1920/uiux/03-paralax/",
                 "course": "UI / UX",
+                "date": "12 30 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parralax/thumb.png",
                     "gallery": [
@@ -238,9 +257,11 @@
                 "title": "Crowdfunding Lowki",
                 "about": "Verdere uitwerking B007C4MP 2o2o project Lowki",
                 "description": "Verdere uitwerking B007C4MP 2o2o project Lowki",
-                "tags": ["three.js","blender","3D","crowdfunding","bootcamp"],
+                "technologie": ["html5", "sass", "javscript", "three.js"],
+                "tags": ["blender","3D","crowdfunding","bootcamp", "paralax"],
                 "url": "https://pgmgent-1920-students.github.io/1920-uiux2-crowdfunding-pgm-lenndery/",
                 "course": "UI / UX",
+                "date": "04 16 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/lowki/thumb.png",
                     "gallery": [
@@ -261,9 +282,11 @@
                 "title": "Case 1 Arne Quinze",
                 "about": "Het namaken van arnequinze.com",
                 "description": "Het namaken van arnequinze.com",
-                "tags": ["werkplekleren"],
+                "technologie": ["html5", "sass", "javscript"],
+                "tags": ["werkplekleren", "Arne Quinze"],
                 "link": "https://git.ahs.lennertderyck.be/1920-atwork-1/",
                 "course": "UI / UX",
+                "date": "12 04 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/arne-quinze/thumb.jpg",
                     "gallery": [
@@ -284,9 +307,11 @@
                 "title": "Case 2 Matthias Talloen",
                 "about": "Het namaken van https://matthiastalloen.be/",
                 "description": "Het namaken van https://matthiastalloen.be/",
-                "tags": ["static site generator","11ty","sass","werkplekleren"],
+                "technologie": ["html5", "sass", "javscript"],
+                "tags": ["werkplekleren", "De Formatie"],
                 "link": "https://git.ahs.lennertderyck.be/1920-atwork-2/",
                 "course": "UI / UX",
+                "date": "12 14 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/matthias-talloen/thumb.png",
                     "gallery": [
@@ -307,9 +332,11 @@
                 "title": "Case 3 Establis",
                 "about": "Het namaken van https://establis.eu/ met 11ty",
                 "description": "Het namaken van https://establis.eu/ met 11ty",
-                "tags": ["static site generator","11ty","sass","werkplekleren"],
+                "technologie": ["html5", "sass", "javscript", "11ty", "api's"],
+                "tags": ["static site generator","werkplekleren", "De Barbaren"],
                 "link": "https://atwork1-case-3-derycklennert.netlify.com/",
                 "course": "UI / UX",
+                "date": "12 21 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/establis/thumb.jpg",
                     "gallery": [
