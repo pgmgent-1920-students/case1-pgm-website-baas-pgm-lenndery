@@ -16,11 +16,11 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/joboffer/thumb.jpg",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/joboffer/screen_1.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/joboffer/screen_2.png",
                             "description": ""
                         }
                     ]
@@ -41,11 +41,15 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/thriven/thumb_2.png",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/thriven/screen_1.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/thriven/screen_2.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/thriven/screen_3.png",
                             "description": ""
                         }
                     ]
@@ -66,11 +70,15 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/festival/thumb.jpg",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/festival/screen_1.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/festival/screen_2.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/festival/screen_3.png",
                             "description": ""
                         }
                     ]
@@ -91,11 +99,15 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/basic-dom/thumb.png",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/basic-dom/screen_1.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/basic-dom/screen_2.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/basic-dom/screen_3.png",
                             "description": ""
                         }
                     ]
@@ -116,11 +128,15 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/tronald%20dump/thumb.png",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/tronald%20dump/Schermafbeelding_2020-04-17_om_00.48.04_s9tj6c.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/tronald%20dump/Schermafbeelding_2020-04-17_om_00.48.11_tgm7ax.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/tronald%20dump/Schermafbeelding_2020-04-17_om_00.48.18_ebkhjh.png",
                             "description": ""
                         }
                     ]
@@ -141,11 +157,19 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/the-meal-db/thumb.jpg",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/the-meal-db/Schermafbeelding_2020-04-17_om_00.35.27_bkqq3s.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/the-meal-db/Schermafbeelding_2020-04-17_om_00.35.39_tvxjun.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/the-meal-db/Schermafbeelding_2020-04-17_om_00.35.55_zbj393.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/the-meal-db/Schermafbeelding_2020-04-17_om_00.36.34_pf2fir.png",
                             "description": ""
                         }
                     ]
@@ -166,11 +190,15 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parkings/thumb.png",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parkings/Schermafbeelding_2020-04-17_om_00.25.27_biwpda.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parkings/Schermafbeelding_2020-04-17_om_00.25.47_jdbhwb.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parkings/Schermafbeelding_2020-04-17_om_00.26.10_e1gcz9.png",
                             "description": ""
                         }
                     ]
@@ -191,11 +219,27 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/thumb.jpg",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/Schermafbeelding_2020-04-17_om_00.40.44_tm0ns3.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/Schermafbeelding_2020-04-17_om_00.41.11_avvxyc.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/Schermafbeelding_2020-04-17_om_00.41.49_t1khcf.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/Schermafbeelding_2020-04-17_om_00.43.59_krbedb.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/Schermafbeelding_2020-04-17_om_00.44.11_dgewk1.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/quiz/Schermafbeelding_2020-04-17_om_00.46.19_hf3tli.png",
                             "description": ""
                         }
                     ]
@@ -241,11 +285,19 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/parralax/thumb.png",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/cv/screen_1.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/cv/screen_2.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/cv/screen_3.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/cv/screen_4.png",
                             "description": ""
                         }
                     ]
@@ -266,11 +318,19 @@
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/lowki/thumb.png",
                     "gallery": [
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/lowki/screen_1.png",
                             "description": ""
                         },
                         {
-                            "url": "",
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/lowki/screen_2.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/lowki/screen_3.png",
+                            "description": ""
+                        },
+                        {
+                            "url": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/lowki/screen_4.png",
                             "description": ""
                         }
                     ]
@@ -289,16 +349,7 @@
                 "date": "12 04 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/arne-quinze/thumb.jpg",
-                    "gallery": [
-                        {
-                            "url": "",
-                            "description": ""
-                        },
-                        {
-                            "url": "",
-                            "description": ""
-                        }
-                    ]
+                    "gallery": []
                 },
                 "students": ["recLgfYAkgMp2UvM1", "recUBrYzPVzhhFvCa"]
             },
@@ -314,16 +365,7 @@
                 "date": "12 14 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/matthias-talloen/thumb.png",
-                    "gallery": [
-                        {
-                            "url": "",
-                            "description": ""
-                        },
-                        {
-                            "url": "",
-                            "description": ""
-                        }
-                    ]
+                    "gallery": []
                 },
                 "students": ["recLgfYAkgMp2UvM1", "recUBrYzPVzhhFvCa"]
             },
@@ -339,16 +381,7 @@
                 "date": "12 21 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/establis/thumb.jpg",
-                    "gallery": [
-                        {
-                            "url": "",
-                            "description": ""
-                        },
-                        {
-                            "url": "",
-                            "description": ""
-                        }
-                    ]
+                    "gallery": []
                 },
                 "students": ["recLgfYAkgMp2UvM1", "recUBrYzPVzhhFvCa"]
             }
