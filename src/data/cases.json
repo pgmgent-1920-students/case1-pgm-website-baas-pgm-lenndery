@@ -345,7 +345,7 @@
                 "technologie": ["html5", "sass", "javscript"],
                 "tags": ["werkplekleren", "Arne Quinze"],
                 "link": "https://git.ahs.lennertderyck.be/1920-atwork-1/",
-                "course": "UI / UX",
+                "course": "@work",
                 "date": "12 04 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/arne-quinze/thumb.jpg",
@@ -361,7 +361,7 @@
                 "technologie": ["html5", "sass", "javscript"],
                 "tags": ["werkplekleren", "De Formatie"],
                 "link": "https://git.ahs.lennertderyck.be/1920-atwork-2/",
-                "course": "UI / UX",
+                "course": "@work",
                 "date": "12 14 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/matthias-talloen/thumb.png",
@@ -377,7 +377,7 @@
                 "technologie": ["html5", "sass", "javscript", "11ty", "api's"],
                 "tags": ["static site generator","werkplekleren", "De Barbaren"],
                 "link": "https://atwork1-case-3-derycklennert.netlify.com/",
-                "course": "UI / UX",
+                "course": "@work",
                 "date": "12 21 2019",
                 "img": {
                     "tumbnail": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pgm-lenndery/src/images/cases/establis/thumb.jpg",
