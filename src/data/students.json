@@ -4,6 +4,7 @@
             "generation": [2019, 2020],
             "class": [{
                 "id": "rec1dTAddXAa4yqqy",
+                "url": "lennert-de-ryck",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "scouts, marvel, api's, (web)design, print, code, muziek",
@@ -41,6 +42,7 @@
                 "createdTime": "2020-05-12T10:19:55.000Z"
             }, {
                 "id": "recDWEUUAL1g7HQWp",
+                "url": "mathieu-de-meue",
                 "fields": {
                     "favourite": "@Work",
                     "interests": "Koken, Lego, Gamen",
@@ -78,6 +80,7 @@
                 "createdTime": "2020-05-04T18:58:51.000Z"
             }, {
                 "id": "recEkYqT78hdJTP1X",
+                "url": "michael-jackson",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "tetten, zalmtoastjes, orvallekes",
@@ -115,6 +118,7 @@
                 "createdTime": "2020-04-23T11:29:47.000Z"
             }, {
                 "id": "recFlvTFXYA4ySC9p",
+                "url": "jesse-vandermeersch",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "Games, Metal, Code",
@@ -152,6 +156,7 @@
                 "createdTime": "2020-05-09T12:25:15.000Z"
             }, {
                 "id": "recLgfYAkgMp2UvM1",
+                "url": "louis-martens",
                 "fields": {
                     "favourite": "@Work",
                     "interests": "Bier, het alcoholprobleem van jaimy's mama, hamsters",
@@ -189,6 +194,7 @@
                 "createdTime": "2020-05-04T20:57:09.000Z"
             }, {
                 "id": "recTzcDySP7TGJn4x",
+                "url": "glenn-dumoulin",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "Breakdance, Hip Hop, Tricks & Flips, Samenzijn met vrienden",
@@ -227,6 +233,7 @@
                 "createdTime": "2020-04-23T14:10:31.000Z"
             }, {
                 "id": "recUBrYzPVzhhFvCa",
+                "url": "jaimy-van-gyseghem",
                 "fields": {
                     "favourite": "@Work",
                     "interests": "Marvel, gezellige gesprekken met vrienden, mijn vriendin",
@@ -265,6 +272,7 @@
                 "createdTime": "2020-04-23T12:31:19.000Z"
             }, {
                 "id": "recWPE9vsyLd5A3uu",
+                "url": "thibaut-de-maerteleire",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "Voetbal, Front-end web development, Back-end web development, Netflix, minivoetbal, muziek, DJ ",
@@ -303,6 +311,7 @@
                 "createdTime": "2020-04-23T12:31:37.000Z"
             }, {
                 "id": "recbR2jDGj8K5j4ra",
+                "url": "alec-meganck",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "Auto's, Programmeren, Muziek",
@@ -341,6 +350,7 @@
                 "createdTime": "2020-04-23T15:32:18.000Z"
             }, {
                 "id": "rechdv9esiIm4Z9mU",
+                "url": "alex-makdis-afrim",
                 "fields": {
                     "favourite": "WEBDES",
                     "interests": "koken, programmeren, sporten, films",
@@ -378,6 +388,7 @@
                 "createdTime": "2020-05-12T10:35:56.000Z"
             }, {
                 "id": "recm6iP1JxMZI8YZd",
+                "url": "jarne-van-steendam",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "Gamen, concerten, festivals",
@@ -416,6 +427,7 @@
                 "createdTime": "2020-05-04T13:46:12.000Z"
             }, {
                 "id": "recnkg0bt7kM6nJGE",
+                "url": "cedric-de-blanck",
                 "fields": {
                     "favourite": "UI/UX",
                     "interests": "dans en gamen",
@@ -454,6 +466,7 @@
                 "createdTime": "2020-04-23T12:29:12.000Z"
             }, {
                 "id": "recqvGQTwrAGzPGya",
+                "url": "nina-genitello",
                 "fields": {
                     "favourite": "@Work",
                     "interests": "Concerten, lezen, gitaar spelen",
@@ -491,6 +504,7 @@
                 "createdTime": "2020-05-04T18:42:35.000Z"
             }, {
                 "id": "recwWqE9I74jfebLa",
+                "url": "romanie-delporte",
                 "fields": {
                     "favourite": "UI/UX",
                     "interests": "Basketbal, Uitgaan",
@@ -531,7 +545,46 @@
         {
             "generation": [2020, 2021],
             "class": [{
+                "id": "rec1dTAddXAa4yqqy",
+                "url": "lennert-de-ryck-2",
+                "fields": {
+                    "favourite": "WEBPGM",
+                    "interests": "scouts, marvel, api's, (web)design, print, code, muziek",
+                    "veggies": "prei",
+                    "name_last": "De Ryck",
+                    "img": [{
+                        "id": "att8dLgvWJYy1rpyX",
+                        "url": "https://dl.airtable.com/.attachments/3732da9951957f0f3677b241f31c43bd/40d52db2/92817995_2663791323731127_1519225826330017792_o.jpg",
+                        "filename": "92817995_2663791323731127_1519225826330017792_o.jpg",
+                        "size": 427473,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/37f046e1c48edfe9a0a808b27c82a355/e152f762",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/638a5a7c5e9ca65cf834081e0fc54f29/7800f87f",
+                                "width": 513,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/ad15d7c93b12044437d6ee83ba543c6a/811eb071",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }],
+                    "generation": "2019 - 2021",
+                    "quote_alt": "Think beyond the box",
+                    "about": "Hi 👋!\nSinds zowat het eerste middelbaar was ik bezig met grafisch ontwerp en deze weg wou ik op Artevelde verderzetten. Wanneer ik afgestudeerd ben in het middelbaar heb ik dan twee jaar Crossmedia Ontwerp gedaan maar dit beviel me niet echt. \nTijdens die twee jaar kregen we ook lessen coderen en daar merkte ik dat mij dat ook interesseerde. Ik was al enige tijd aan het twijfelen om te veranderen van richting en wanneer ik hoorde dat er een graduaat programmeren kwam op onze campus heb ik niet lang getwijfeld.\nIn het graduaat komen beide interesses mooi samen. Ik kan zowel code schrijven als designen. Alhoewel ik de grafische industrie wel mis heb ik nog geen seconde spijt gehad van de keuze.\n",
+                    "name_first": "Lennert"
+                },
+                "createdTime": "2020-05-12T10:19:55.000Z"
+            }, {
                 "id": "recDWEUUAL1g7HQWp",
+                "url": "mathieu-de-meue-2",
                 "fields": {
                     "favourite": "@Work",
                     "interests": "Koken, Lego, Gamen",
@@ -569,6 +622,7 @@
                 "createdTime": "2020-05-04T18:58:51.000Z"
             }, {
                 "id": "recEkYqT78hdJTP1X",
+                "url": "michael-jackson-2",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "tetten, zalmtoastjes, orvallekes",
@@ -606,6 +660,7 @@
                 "createdTime": "2020-04-23T11:29:47.000Z"
             }, {
                 "id": "recFlvTFXYA4ySC9p",
+                "url": "jesse-vandermeersch-2",
                 "fields": {
                     "favourite": "WEBPGM",
                     "interests": "Games, Metal, Code",
@@ -641,81 +696,6 @@
                     "name_first": "Jesse"
                 },
                 "createdTime": "2020-05-09T12:25:15.000Z"
-            }, {
-                "id": "recLgfYAkgMp2UvM1",
-                "fields": {
-                    "favourite": "@Work",
-                    "interests": "Bier, het alcoholprobleem van jaimy's mama, hamsters",
-                    "veggies": "aardappel",
-                    "name_last": "Martens",
-                    "img": [{
-                        "id": "attYvnaLdX7aNScxI",
-                        "url": "https://dl.airtable.com/.attachments/2ffd41c80a1074dd78b980b433a3314a/d41f8659/inbound3647642866446826804.jpg",
-                        "filename": "inbound3647642866446826804.jpg",
-                        "size": 144867,
-                        "type": "image/jpeg",
-                        "thumbnails": {
-                            "small": {
-                                "url": "https://dl.airtable.com/.attachmentThumbnails/bd52568970ca38de3114c7412a5e71d2/ff835323",
-                                "width": 20,
-                                "height": 36
-                            },
-                            "large": {
-                                "url": "https://dl.airtable.com/.attachmentThumbnails/35f47e0a4afe4e9e910ed126b8590e3f/e472714b",
-                                "width": 512,
-                                "height": 910
-                            },
-                            "full": {
-                                "url": "https://dl.airtable.com/.attachmentThumbnails/b3ab76ea5e23cea75c1dd477b7c3944f/f568eeba",
-                                "width": 3000,
-                                "height": 3000
-                            }
-                        }
-                    }],
-                    "generation": "2019 - 2021",
-                    "quote_alt": "I put the sexy in dyslexic",
-                    "about": "Tleven is geen ponny kamp maar ik was wel graag is naar 1 geweest.\n",
-                    "name_first": "Louis"
-                },
-                "createdTime": "2020-05-04T20:57:09.000Z"
-            }, {
-                "id": "recTzcDySP7TGJn4x",
-                "fields": {
-                    "favourite": "WEBPGM",
-                    "interests": "Breakdance, Hip Hop, Tricks & Flips, Samenzijn met vrienden",
-                    "veggies": "prei",
-                    "name_last": "Dumoulin",
-                    "img": [{
-                        "id": "attm2Vr8sLWOV6aNi",
-                        "url": "https://dl.airtable.com/.attachments/99a5e94ff961bda1093e0e9c131cfa18/47911327/artevelde_pf_kleiner.jpg",
-                        "filename": "artevelde_pf_kleiner.jpg",
-                        "size": 992437,
-                        "type": "image/jpeg",
-                        "thumbnails": {
-                            "small": {
-                                "url": "https://dl.airtable.com/.attachmentThumbnails/ff3b58e3138044faa8225f1cd0da8bb3/4c5a7fc4",
-                                "width": 38,
-                                "height": 36
-                            },
-                            "large": {
-                                "url": "https://dl.airtable.com/.attachmentThumbnails/d3b9abb6b4819af3dadc67dcb821ed2d/a25f2ca3",
-                                "width": 534,
-                                "height": 512
-                            },
-                            "full": {
-                                "url": "https://dl.airtable.com/.attachmentThumbnails/d993f9645d0b2b60b2dc7d0707d94210/cc853533",
-                                "width": 3000,
-                                "height": 3000
-                            }
-                        }
-                    }],
-                    "generation": "2019 - 2021",
-                    "quote_alt": "Live today, work tomorrow!",
-                    "quote": "\"Live today, work tomorrow!\"",
-                    "about": "Ik ben 18 jaar en kom rechtstreeks uit het middelbaar waar ik afgestudeerd ben in de richting wetenschappen & wiskunde.\nIk had dus totaal geen kennis van programmeren. Toch kon ik in deze richting mee volgen met het tempo (het één onderwerp al wat beter dan het ander).\nDus ook zonder voorkennis kan je deze richting perfect halen. Het enige wat je wel echt nodig hebt is zelfvertrouwen en doorzettingsvermogen.\n",
-                    "name_first": "Glenn"
-                },
-                "createdTime": "2020-04-23T14:10:31.000Z"
             }]
         }
     ]
