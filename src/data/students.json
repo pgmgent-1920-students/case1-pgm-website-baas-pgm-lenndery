@@ -34,7 +34,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "Think beyond the box",
                     "about": "Hi 👋!\nSinds zowat het eerste middelbaar was ik bezig met grafisch ontwerp en deze weg wou ik op Artevelde verderzetten. Wanneer ik afgestudeerd ben in het middelbaar heb ik dan twee jaar Crossmedia Ontwerp gedaan maar dit beviel me niet echt. \nTijdens die twee jaar kregen we ook lessen coderen en daar merkte ik dat mij dat ook interesseerde. Ik was al enige tijd aan het twijfelen om te veranderen van richting en wanneer ik hoorde dat er een graduaat programmeren kwam op onze campus heb ik niet lang getwijfeld.\nIn het graduaat komen beide interesses mooi samen. Ik kan zowel code schrijven als designen. Alhoewel ik de grafische industrie wel mis heb ik nog geen seconde spijt gehad van de keuze.\n",
                     "name_first": "Lennert"
@@ -72,7 +72,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "Dat is hier een tikkende tijdbom!",
                     "about": "Na het middelbaar heb ik enkele moeilijke jaren gehad in de zoektocht naar de juiste studierichting, tot ik het graduaat programmeren zag passeren op sociale media kanalen van Artevelde. Ik was direct verkocht! De klassfeer en de richting zelf zijn geweldig!\n",
                     "name_first": "Mathieu"
@@ -110,7 +110,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "about": "Beat it",
                     "quote_alt": "No matter if it's black or white als 't maar te zuipen is",
                     "quote": "No matter if it's black or white als 't maar te zuipen is",
@@ -149,7 +149,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "Think, Design, Code.",
                     "about": "Ik ben 23 lentes jong en afkomstig uit West-Vlaanderen. Mijn 3 groote liefdes in het leven zijn games, heavy metal en code. Ik probeer deze drie interesses zoveel mogelijk met elkaar te combineren bij alles wat ik doe.\n\nCoole dingen maken met harde tunes op de achtergrond, zo wil ik mijn dagen doorbrengen!\n",
                     "name_first": "Jesse"
@@ -187,7 +187,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "I put the sexy in dyslexic",
                     "about": "Tleven is geen ponny kamp maar ik was wel graag is naar 1 geweest.\n",
                     "name_first": "Louis"
@@ -225,7 +225,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "Live today, work tomorrow!",
                     "quote": "\"Live today, work tomorrow!\"",
                     "about": "Ik ben 18 jaar en kom rechtstreeks uit het middelbaar waar ik afgestudeerd ben in de richting wetenschappen & wiskunde.\nIk had dus totaal geen kennis van programmeren. Toch kon ik in deze richting mee volgen met het tempo (het één onderwerp al wat beter dan het ander).\nDus ook zonder voorkennis kan je deze richting perfect halen. Het enige wat je wel echt nodig hebt is zelfvertrouwen en doorzettingsvermogen.\n",
@@ -264,7 +264,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "I am Groot.",
                     "quote": "I am Groot.",
                     "about": "Ik ben 21 jaar en een zeer gemotiveerde student. Programmeren is mijn passie. Met deze richting hoop ik dus van mijn passie een beroep te maken. \n",
@@ -303,7 +303,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "Don't raise your voice, improve your argument",
                     "quote": "Don't raise your voice, improve your argument",
                     "about": "Ik ben 20 jaar, heb de afgelopen 2 jaar wat zitten sukkelen op zoek naar de juiste richting. Gelukkig heb ik deze richting gevonden. Ik was altijd al op zoek naar een richting in die IT die eerder op web gefocust was en deze heb ik uiteindelijk ook gevonden. \n\nIk had al enige voorkennis van programmeren maar heb die enorm uitgebreid. In het verleden maakte ik soms wel eens een website of schreef ik wat amateuristische scripts als hobby. Nu kan ik er veel meer van. Leer ik nieuwe technieken en frameworks in de lessen en ga ik ook zelf op zoek naar nieuwe methoden die me kunnen helpen in de toekomst.\n\nDe lessen zijn voor iedereen op maat en de leerkrachten ondersteunen de leerlingen zoveel als mogelijk. Heb je al enige voorkennis zullen ze jou grotere uitdagingen geven zodat iedereen altijd bezig is en bij leert. De medeleerlingen helpen elkaar ook wanneer nodig wat bij veel andere richtingen niet zo is. \n\nIk ben heel blij deze richting gevonden te hebben. De perfecte combinatie tussen programmeren, designen en de algemene kennis van IT !\n",
@@ -342,7 +342,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "The goal is to die with memories, not dreams.",
                     "quote": "The goal is to die with memories, not dreams.",
                     "about": "Mijn naam is Alec, ik studeer Programmeren aan Arteveldehogeschool te Gent. Hiervoor heb ik een jaar de opleiding Devine gestudeerd en daarvoor Multimedia. Ik ben dus al een paar jaar bezig met coderen en ben zeker nog niet van plan om te stoppen.\n",
@@ -381,7 +381,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "sweg",
                     "about": "Corona survivor\n",
                     "name_first": "Alex"
@@ -419,7 +419,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "Never give up",
                     "quote": "\"Never give up\"",
                     "about": "Ik ben Jarne, ik hou van gamen, slapen en eten. Ik ben een metal fan. Natuurlijk heb ik ook grote interesse in coderen.\n",
@@ -458,7 +458,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "I can't write code, but i can copy paste?",
                     "quote": "I can't write code, but i can copy paste?",
                     "about": "Ik ben 19 jaar, hiervoor in het middelbaar deed ik elektriciteit en wist ik nog niet wat ik moest doen. Toen ben ik bij Graduaat Programmeren terecht gekomen in Artevelde Hogeschool.\n",
@@ -497,7 +497,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "Kickstart my heart",
                     "about": "Mijn naam is Nina, ik ben 24.\nIk hou van naar optredens en festivals te gaan. Maar natuurlijk ook van coderen.\n",
                     "name_first": "Nina"
@@ -535,7 +535,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2019, 2020],
                     "quote_alt": "There are no secrets to success. It is the result of preparation, hard work and learning from failure.",
                     "about": "Ik ben 20 jaar en kom rechtstreeks uit het middelbaar waar ik ben afgestudeerd in de richting Business support.\nIk heb deze richting gekozen omdat het mij interesseerde en dacht van \"wow ga ik ook zo'n toffe websites kunnen maken\". Maar natuurlijk met het feit dat ik niets van voorkennis had in programmeren Maar tot vandaag heb ik nog altijd geen spijt dat ik voor deze richting heb gekozen.\n",
                     "name_first": "Romanie"
@@ -577,7 +577,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2020, 2021],
                     "quote_alt": "Think beyond the box",
                     "about": "Hi 👋!\nSinds zowat het eerste middelbaar was ik bezig met grafisch ontwerp en deze weg wou ik op Artevelde verderzetten. Wanneer ik afgestudeerd ben in het middelbaar heb ik dan twee jaar Crossmedia Ontwerp gedaan maar dit beviel me niet echt. \nTijdens die twee jaar kregen we ook lessen coderen en daar merkte ik dat mij dat ook interesseerde. Ik was al enige tijd aan het twijfelen om te veranderen van richting en wanneer ik hoorde dat er een graduaat programmeren kwam op onze campus heb ik niet lang getwijfeld.\nIn het graduaat komen beide interesses mooi samen. Ik kan zowel code schrijven als designen. Alhoewel ik de grafische industrie wel mis heb ik nog geen seconde spijt gehad van de keuze.\n",
                     "name_first": "Lennert"
@@ -615,7 +615,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2020, 2021],
                     "quote_alt": "Dat is hier een tikkende tijdbom!",
                     "about": "Na het middelbaar heb ik enkele moeilijke jaren gehad in de zoektocht naar de juiste studierichting, tot ik het graduaat programmeren zag passeren op sociale media kanalen van Artevelde. Ik was direct verkocht! De klassfeer en de richting zelf zijn geweldig!\n",
                     "name_first": "Mathieu"
@@ -653,7 +653,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2020, 2021],
                     "quote_alt": "No matter if it's black or white als 't maar te zuipen is",
                     "quote": "No matter if it's black or white als 't maar te zuipen is",
                     "name_first": "Michael"
@@ -691,7 +691,7 @@
                             }
                         }
                     }],
-                    "generation": "2019 - 2021",
+                    "generation": [2020, 2021],
                     "quote_alt": "Think, Design, Code.",
                     "about": "Ik ben 23 lentes jong en afkomstig uit West-Vlaanderen. Mijn 3 groote liefdes in het leven zijn games, heavy metal en code. Ik probeer deze drie interesses zoveel mogelijk met elkaar te combineren bij alles wat ik doe.\n\nCoole dingen maken met harde tunes op de achtergrond, zo wil ik mijn dagen doorbrengen!\n",
                     "name_first": "Jesse"
