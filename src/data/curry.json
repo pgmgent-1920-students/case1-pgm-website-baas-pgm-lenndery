@@ -8,7 +8,7 @@
                 {
                     "name": "IT Communication",
                     "subject": "",
-                    "teachers": ["cgr","ldb"],
+                    "teachers": ["Claire Geeraerts","Lennart Dubois"],
                     "credits": 3,
                     "time": 6,
                     "term": 3
@@ -16,7 +16,7 @@
                 {
                     "name": "IT Business",
                     "subject": "",
-                    "teachers": ["cgr","ldb"],
+                    "teachers": ["Claire Geeraerts","Lennart Dubois"],
                     "credits": 3,
                     "time": 6,
                     "term": 4
@@ -39,7 +39,7 @@
                 {
                     "name": "Computer Systems",
                     "subject": "",
-                    "teachers": ["opr"],
+                    "teachers": ["Olivier Parent"],
                     "credits": 3,
                     "time": 6,
                     "term": 3
@@ -70,7 +70,7 @@
                 {
                     "name": "Web Design",
                     "subject": "",
-                    "teachers": ["evr"],
+                    "teachers": ["Evelien Rutsaert"],
                     "credits": 6,
                     "time": 8,
                     "term": 1
@@ -78,7 +78,7 @@
                 {
                     "name": "User Interface Design",
                     "subject": "",
-                    "teachers": ["ddw"],
+                    "teachers": ["Dieter De Weirdt"],
                     "credits": 6,
                     "time": 8,
                     "term": 2
@@ -86,7 +86,7 @@
                 {
                     "name": "User Interface Prototyping",
                     "subject": "",
-                    "teachers": ["opr"],
+                    "teachers": ["Olivier Parent"],
                     "credits": 6,
                     "time": 8,
                     "term": 3
@@ -117,7 +117,7 @@
                 {
                     "name": "Programming 1",
                     "subject": "Front-End Essentials",
-                    "teachers": ["pdp"],
+                    "teachers": ["Philippe De Pauw - Waterschoot"],
                     "credits": 6,
                     "time": 10,
                     "term": 1
@@ -125,7 +125,7 @@
                 {
                     "name": "Programming 2",
                     "subject": "Front-End Advanced",
-                    "teachers": ["opr"],
+                    "teachers": ["Olivier Parent"],
                     "credits": 3,
                     "time": 6,
                     "term": 2
@@ -133,7 +133,7 @@
                 {
                     "name": "Programming 3",
                     "subject": "Front-End Expert",
-                    "teachers": ["frg"],
+                    "teachers": ["Frederick Roegiers"],
                     "credits": 6,
                     "time": 10,
                     "term": 3
@@ -141,7 +141,7 @@
                 {
                     "name": "Programming 4",
                     "subject": "JAMStack",
-                    "teachers": ["pdp"],
+                    "teachers": ["Philippe De Pauw - Waterschoot"],
                     "credits": 6,
                     "time": 8,
                     "term": 4
@@ -172,7 +172,7 @@
                 {
                     "name": "@Work 1",
                     "subject": "",
-                    "teachers": ["pdp"],
+                    "teachers": ["Philippe De Pauw - Waterschoot"],
                     "credits": 6,
                     "time": 10,
                     "term": 2
@@ -180,7 +180,7 @@
                 {
                     "name": "@Work 2",
                     "subject": "",
-                    "teachers": ["pdp","ldb"],
+                    "teachers": ["Philippe De Pauw - Waterschoot","Lennart Dubois"],
                     "credits": 6,
                     "time": 10,
                     "term": 4
