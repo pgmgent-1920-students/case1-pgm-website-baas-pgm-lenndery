@@ -45,7 +45,7 @@
             "interests": "Koken, Lego, Gamen",
             "veggies": "aardappel",
             "name_last": "De Meue",
-            "img": [{
+            "t": [{
                 "id": "attUjEDuc0eQOsFev",
                 "url": "https://dl.airtable.com/.attachments/99df140d63d145b5473b812f5eef5820/34ca8990/mathieu.jpg",
                 "filename": "mathieu.jpg",
@@ -80,7 +80,7 @@
         "url": "michael-jackson",
         "fields": {
             "favourite": "WEBPGM",
-            "interests": "tetten, zalmtoastjes, orvallekes",
+            "interests": "zalmtoastjes, orvallekes, cafe sport",
             "veggies": "prei",
             "name_last": "Jackson",
             "img": [{
